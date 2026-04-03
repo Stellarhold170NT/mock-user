@@ -1,14 +1,14 @@
 {
   "users": [
-    { "id": 1, "username": "anh.nguyen", "email": "anh.nguyen@viettel.com.vn", "fullName": "Nguyen Van Anh", "departmentId": "PHONG_KHOA_HOC" },
-    { "id": 2, "username": "binh.tran", "email": "binh.tran@viettel.com.vn", "fullName": "Tran Thanh Binh", "departmentId": "PHONG_NHAN_SU"},
-    { "id": 3, "username": "chi.le", "email": "chi.le@viettel.com.vn", "fullName": "Le Thi Chi", "departmentId": "PHONG_KE_TOAN"},
-    { "id": 4, "username": "dung.pham", "email": "dung.pham@viettel.com.vn", "fullName": "Pham Van Dung", "departmentId": "PHONG_KY_THUAT" },
-    { "id": 5, "username": "em.hoang", "email": "em.hoang@viettel.com.vn", "fullName": "Hoang Thi Em", "departmentId": "PHONG_KINH_DOANH" },
-    { "id": 6, "username": "giang.vu", "email": "giang.vu@viettel.com.vn", "fullName": "Vu Huong Giang", "departmentId": "PHONG_DAO_TAO" },
-    { "id": 7, "username": "hung.do", "email": "hung.do@viettel.com.vn", "fullName": "Do Manh Hung", "departmentId": "PHONG_DU_AN" },
-    { "id": 8, "username": "khanh.bui", "email": "khanh.bui@viettel.com.vn", "fullName": "Bui Quoc Khanh", "departmentId": "PHONG_KY_THUAT" },
-    { "id": 9, "username": "lan.mai", "email": "lan.mai@viettel.com.vn", "fullName": "Mai Thi Lan", "departmentId": "PHONG_PHAP_CHE"},
-    { "id": 10, "username": "minh.nguyen", "email": "minh.nguyen@viettel.com.vn", "fullName": "Nguyen Duc Minh", "departmentId": "PHONG_DIEU_HANH" }
+    { "id": 1, "username": "anh.nguyen", "fullName": "Nguyen Van Anh", "departmentId": "PHONG_KHOA_HOC" },
+    { "id": 2, "username": "binh.tran", "fullName": "Tran Thanh Binh", "departmentId": "PHONG_NHAN_SU"},
+    { "id": 3, "username": "chi.le", "fullName": "Le Thi Chi", "departmentId": "PHONG_KE_TOAN"},
+    { "id": 4, "username": "dung.pham", "fullName": "Pham Van Dung", "departmentId": "PHONG_KY_THUAT" },
+    { "id": 5, "username": "em.hoang", "fullName": "Hoang Thi Em", "departmentId": "PHONG_KINH_DOANH" },
+    { "id": 6, "username": "giang.vu", "fullName": "Vu Huong Giang", "departmentId": "PHONG_DAO_TAO" },
+    { "id": 7, "username": "hung.do", "fullName": "Do Manh Hung", "departmentId": "PHONG_DU_AN" },
+    { "id": 8, "username": "khanh.bui", "fullName": "Bui Quoc Khanh", "departmentId": "PHONG_KY_THUAT" },
+    { "id": 9, "username": "lan.mai", "fullName": "Mai Thi Lan", "departmentId": "PHONG_PHAP_CHE"},
+    { "id": 10, "username": "minh.nguyen", "fullName": "Nguyen Duc Minh", "departmentId": "PHONG_DIEU_HANH" }
   ]
 }
